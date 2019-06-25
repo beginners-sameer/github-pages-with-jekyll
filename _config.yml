@@ -9,4 +9,4 @@ github_username:  szulfis
 
 show_excerpts: true # it's a great way of learning
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
