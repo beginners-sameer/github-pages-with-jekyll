@@ -1,4 +1,4 @@
-title: Your awesome title
+title: thefreebeginners
 author: GitHub User
 email: your-email@domain.com
 description: > # a great way of learning 
@@ -7,6 +7,6 @@ description: > # a great way of learning
 twitter_username: szulfis
 github_username:  szulfis
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: true # it's a great way of learning
 
 theme: jekyll-theme-architect
